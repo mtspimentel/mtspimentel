@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Matheus Pimentel
 
-- 🔭 Formando em Eng.Civil e seguindo meu sonho na area de tecnologia, onde sempre sonhei em poder trabalhar e desenvolver projetos!
-- 🌱 Atualmente estudando React
+- 🔭 Formando em Eng.Civil porém estou seguindo meu sonho que é trabalhar na area de tecnologia, onde sempre sonhei em poder ingressar como programador e desenvolver projetos!
+- 🌱 Atualmente estudando React!
 - 💬 Contate-me no email: mtspimentel@icloud.com
 <div style="display: inline_block"><br>
   <img align="center" alt="mtspimentel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
