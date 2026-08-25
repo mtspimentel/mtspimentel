@@ -1,12 +1,13 @@
 ### Olá! Meu nome é Matheus Pimentel
 
-Engenheiro Civil em transição de carreira para área de Tecnologia.
+### Engenheiro Civil em transição de carreira para área de Tecnologia.
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
 print("Hello, World!") → só o começo.
 🐍 Python, APIs REST, MySQL, Javascript | Gestão de Projetos
 🚀 Code. Learn. Build. Repeat.!
-- 💬 Contate-me no email: mtspimentel@icloud.com
+- 💬 Contate-me no email: mtspimentel.dev@gmail.com
   
 <div style="display: inline_block"><br>
   <img align="center" alt="mtspimentel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
