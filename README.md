@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-🐍 Python, APIs REST, MySQL, Javascript | Gestão de Projetos
+🐍 Python, FastAPI, APIs REST, MySQL, Oracle, Javascript, IA. | Gestão de Projetos
 
 🚀 Code. Learn. Build. Repeat.!
 
