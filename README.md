@@ -1,6 +1,6 @@
-### Engenheiro Civil em transição de carreira para área de Tecnologia.
+### Estudante de Análise e Desenvolvimento de Sistemas
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🎓 Sou formado em Engenharia Civil e Gestão de Projetos
 
 🐍 Python, FastAPI, APIs REST, MySQL, Oracle, Javascript, IA. | Gestão de Projetos
 
