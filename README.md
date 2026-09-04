@@ -2,7 +2,7 @@
 
 🎓 Sou formado em Engenharia Civil e Gestão de Projetos
 
-🐍 Python, FastAPI, APIs REST, MySQL, Oracle, Javascript, IA. | Gestão de Projetos
+🐍 Python, Java, FastAPI, SQL, Oracle, Javascript, Artificial Intelligence. | Gestão de Projetos
 
 🚀 Code. Learn. Build. Repeat.!
 
